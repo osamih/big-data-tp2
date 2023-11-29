@@ -1,0 +1,12 @@
+com\slimani_ce\exercice1\job1\JobMapper.class
+com\slimani_ce\exercice1\job2\JobReducer.class
+com\slimani_ce\exercice2\JobReducer.class
+com\slimani_ce\exercice1\job1\JobReducer.class
+com\slimani_ce\word_counting\WordCountMapper.class
+com\slimani_ce\exercice1\job1\Driver.class
+com\slimani_ce\exercice1\job2\Driver.class
+com\slimani_ce\exercice1\job2\JobMapper.class
+com\slimani_ce\word_counting\WordCountReducer.class
+com\slimani_ce\exercice2\JobMapper.class
+com\slimani_ce\word_counting\WordCountDriver.class
+com\slimani_ce\exercice2\Driver.class
